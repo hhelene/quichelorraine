@@ -2,5 +2,6 @@ h1{color :orange;
 }
 h2{color: teal;
 }
-li{color: rgb(75,75,75);
+ul li{color: rgb(75,75,75); 
+	font-weight: bold;
 }
